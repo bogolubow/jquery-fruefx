@@ -43,7 +43,7 @@
 $.fn.TrueFx.defaults = {
     interval: 1000,
     pair: "EUR/USD",
-    url: "http://webrates.truefx.com/rates/connect.html"
+    url: "https://webrates.truefx.com/rates/connect.html"
 };
 
 
